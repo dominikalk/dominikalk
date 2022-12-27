@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">I'm a passionate developer working for 3 Sided Cube based in the UK</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominikalk" alt="dominikalk" /></a> </p>
-
 - 🔭 I’m currently working on **Project Outlaw ...**
 
 - 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **React and React Native**
 
-- 📫 How to reach me **dominik.alk@hotmail.com**
+- 📫 Reach me at **dominik.alk@hotmail.com**
 
 - ⚡ Fun fact **I started off my development journey working with python and then game development with Unity**
 
