@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">I'm a passionate developer working for 3 Sided Cube based in the UK</h3>
+<h3 align="center">I'm a passionate developer working for 3 Sided Cube, based in the UK</h3>
 
 <div align="center">
 
-- 🔭 I’m currently working on **Project Outlaw ...**
+🔭 I’m currently working on **Project Outlaw ...**
 
-- 🌱 I’m currently learning **Nest JS**
+🌱 I’m currently learning **Nest JS**
 
-- 💬 Ask me about **React and React Native**
+💬 Ask me about **React and React Native**
 
-- 📫 Reach me at **dominik.alk@hotmail.com**
+📫 Reach me at **dominik.alk@hotmail.com**
 
-- ⚡ Fun fact **I started off my development journey working with python and then game development with Unity**
+⚡ Fun fact **I started off my development journey working with python and then game development with Unity**
+
 </div>
 
 <h3 align="center">Connect with me:</h3>
