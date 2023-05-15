@@ -5,13 +5,13 @@
 
 🔭 I’m currently working on **Project Outlaw ...**
 
-🌱 I’m currently learning **Nest JS**
+<!-- 🌱 I’m currently learning **Nest JS** -->
 
 💬 Ask me about **React and React Native**
 
 📫 Reach me at **dominik.alk@hotmail.com**
 
-⚡ Fun fact **I started off my development journey working with python and then game development with Unity**
+⚡ Fun fact **I started off my development journey working with Python and then game development with Unity**
 
 </div>
 
