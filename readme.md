@@ -12,8 +12,8 @@ public class DominikService : IDominikService
   private readonly string degree = "Computer Science";
   private readonly string university = "Cardiff University";
   private readonly List<string> stack = new List<string>()
-    {"ASP.NET", "EF Core", "MSTest", "React", "React Native",
-      "Redux", "SASS", "TailwindCSS", "GraphQL"};
+    {"ASP.NET", "EF Core", "MSTest", "SignalR", "React", 
+      "React Native", "Redux", "SASS", "TailwindCSS", "GraphQL"};
   private readonly List<string> languages = new List<string>()
     {"C#", "TypeScript", "JavaScript", "Java", "Python", "HTML", "CSS"};
   
