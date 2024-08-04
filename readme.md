@@ -9,7 +9,7 @@ public class DominikService : IDominikService
   
   private readonly string name = "Dominik Alkhovik";
   private readonly string role = "Full-Stack Developer at Spike Global";
-  private readonly string degree = "Computer Science";
+  private readonly string degree = "First Class Computer Science BSc with Honours";
   private readonly string university = "Cardiff University";
   private readonly List<string> stack = new List<string>()
     {"ASP.NET", "EF Core", "MSTest", "SignalR", "React", 
@@ -25,7 +25,7 @@ public class DominikService : IDominikService
   public string GetCoverLetter()
   {
     string introduction = $"Hi, my name is {name} and I am a {role}. ";
-    string studies = $"I am also studying {degree} at {university}. ";
+    string studies = $"I have a {degree} from {university}. ";
     string stackInfo = $"I mainly work with {GetSeparatedList(stack)} ";
     string languagesInfo = $"and I'm also proficient with {GetSeparatedList(languages)}. ";
     
